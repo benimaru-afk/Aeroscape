@@ -1,0 +1,41 @@
+RPG - Reading from File
+
+
+k,cmin,cmax,gcount,dmin,dmax
+
+level 1
+0
+01
+11
+level 2
+01
+12
+22
+level 3
+22
+223
+22223
+level 4
+223
+2223
+4
+level 5
+1114
+124
+11234
+445
+
+
+
+
+Sam: Read from file, Levels, enemy loop, animation
+Ben: Classes objects, main loop, bg work
+Garrett: sprite work
+Estevan: moves/attacks, buttons to trigger animation
+
+
+Q What was Billy's "happiest moment" of his life?
+A His nap in the wagon ride back to the slaughterhouse.
+
+Q What does Rumfoord first say when Billy tells him that he was at Dresden?
+A He diagnoses Billy with echolalia, a disease where people repeat what folks around them say. 

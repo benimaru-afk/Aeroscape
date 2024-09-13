@@ -1,0 +1,9 @@
+RPG - Reading from File
+
+level 1
+000000
+level 2
+112122
+level 3
+
+level 4
